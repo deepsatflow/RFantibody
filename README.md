@@ -107,7 +107,7 @@ process described above is well suited for development.  However, if you are dep
 ### Building production Docker Image
 
 ```
-docker build -t rfantibody-production -f production.Dockerfile.
+docker build -t rfantibody-production -f production.Dockerfile .
 ```
 
 
